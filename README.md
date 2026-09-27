@@ -21,7 +21,7 @@
 
 I'm a Computer Science undergraduate at **Government Engineering College, Ajmer** (CGPA: **9.07**), working at the intersection of **backend engineering** and **mobile security research**.
 
-- 🔬 Research Intern @ **MNIT Jaipur** — building an **Android malware detection & classification pipeline** using LLMs and static analysis over 50K+ labeled APK samples
+- 🔬 Researched at @ **MNIT Jaipur** — built an **Android malware detection & classification pipeline** using LLMs and static analysis over 50K+ labeled APK samples
 - 🛡️ Former Penetration Tester @ **CDAC** — OWASP-aligned vulnerability assessment
 - ⚡ **1900+** LeetCode rating, Knight badge, **600+** problems solved
 - 🏆 Top **7%** globally on TryHackMe · **GATE 2025** qualified
