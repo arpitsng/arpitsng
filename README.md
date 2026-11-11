@@ -4,7 +4,7 @@
 
 ### Backend Engineer · Security Researcher · Competitive Programmer
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure%2C+scalable+backend+systems;Researching+Android+malware+with+LLMs;Breaking+things+to+understand+how+they+work;600%2B+LeetCode+problems+solved&font=Fira%20Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=20" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure%2C+scalable+backend+systems;Researched+Android+malware+with+LLMs;Breaking+things+to+understand+how+they+work;600%2B+LeetCode+problems+solved&font=Fira%20Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=20" alt="typing animation" />
 
 <br/>
 
